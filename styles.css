@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    color: white;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
