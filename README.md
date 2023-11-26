@@ -1,4 +1,4 @@
-**# Amazon-Clone**
+# Amazon-Clone
 
 This project is a simple HTML and CSS implementation of an Amazon clone landing page. Designed to mimic the familiar layout of the Amazon website, it serves as a learning exercise for front-end web development. The code provides a responsive and visually appealing landing page, showcasing fundamental skills in HTML for structure and CSS for styling. Feel free to explore, contribute, and use this project as a starting point for expanding your web development skills.
 
